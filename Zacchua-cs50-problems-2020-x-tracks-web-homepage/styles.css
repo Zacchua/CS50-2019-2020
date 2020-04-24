@@ -1,0 +1,27 @@
+h1
+{
+    text-align: center;
+    color: blue;
+    text-decoration: underline overline;
+}
+
+h2
+{
+    text-align: center;
+    color: grey;
+}
+
+.centre
+{
+    text-align:center;
+    color: white;
+}
+
+button
+{
+    font-size: x-large;
+}
+
+td{
+    text-align: center;
+}
